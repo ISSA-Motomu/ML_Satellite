@@ -1,2 +1,11 @@
 # ML_Satellite
-Practice Machine Learning
+- Satellite imageを用いた機械学習モデルの学習を目標とします（花沢明俊研究室）
+
+
+## ファイル構成
+
+## 使用データ
+
+## 環境
+- Python 3.13.9
+- TensorFlow
