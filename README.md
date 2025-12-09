@@ -5,12 +5,7 @@
 ```text
 ML_Satellite/
 ├── ResNet.ipynb          # ResNet model implementation & training
-├── eurosat/              # Dataset directory (EuroSAT)
-│   ├── 2750/             # Contains images for each class
-│   │   ├── Forest/
-│   │   ├── Highway/
-│   │   └── ...
-│   └── ...
+├─
 └── README.md             # Project documentation
 
 
