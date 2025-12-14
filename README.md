@@ -5,7 +5,7 @@
 ```text
 ML_Satellite/
 ├── ResNet.ipynb          # ResNet model implementation & training
-├─
+├─PCA.ipynb
 └── README.md             # Project documentation
 
 
