@@ -18,3 +18,4 @@
 ## 環境
 - Python 3.13.9
 - TensorFlow
+- AIKobou GPUserver
